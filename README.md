@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waasem
-- 👀 I’m interested in (Supervised) Machine Learning, Reinforcement Learning, and Graph theory.
-- 🌱 I’m currently learning robustness of neural networks and graph theory applications in machine learning.
-- 💞️ I’m looking to collaborate on graph theoretic concepts such as Ollivier-Ricci Curvature, Wasserstein distance, and study robust neural networks.
+- 👀 I’m interested in Deep Learning, Multimodal Learning, and Foundation Models, especially in Cancer care.
+- 🌱 I’m currently working on Foundation Models and their applications in patient care.
+- 💞️ I’m looking to collaborate on any of the above topics.
 
 
 <!---
